@@ -1,1 +1,4 @@
-hostname Mumbai
+interface loopback10
+ip address 30.30.30.30 255.255.255.255
+exit
+
