@@ -1,1 +1,4 @@
-Hostname Bengalore
+interface lo10
+ip address 20.20.20.20 255.255.255.255
+exit
+
