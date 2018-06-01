@@ -47,3 +47,6 @@ if __name__ == "__main__":
         print(output)
         write_conf = device_config_file("{}.txt".format(line))
         print(write_conf)
+        output1 = device_output(net_connect)
+        print(output1)
+
